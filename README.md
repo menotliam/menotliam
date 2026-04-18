@@ -4,7 +4,7 @@
 ### Aspiring SOC Analyst & Security Engineer | CS Student at HCMUT
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/4lexngo)
-[![Email](https://img.shields.io/badge/Email-alexngo4work@gmail.com-red?style=flat&logo=gmail)]()
+[![Email](https://img.shields.io/badge/Email-alexngo4work@gmail.com-red?style=flat&logo=gmail)](mailto:alexngo4work@gmail.com)
 
 </div>
 
