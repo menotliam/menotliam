@@ -11,7 +11,7 @@
 ---
 
 ### 📄 Professional Resume
-> **[Click here to view my Resume (PDF)](#)** > *(Note: This link leads to my detailed CV for SOC Tier 1 position).*
+> **[Click here to view my Resume (PDF)](https://drive.google.com/file/d/1jaxOmKFPPjET6iVCKmjHwiB_ZBRt3a_w/view?usp=sharing)** > *(Note: This link leads to my detailed CV for SOC Tier 1 position).*
 
 ---
 
