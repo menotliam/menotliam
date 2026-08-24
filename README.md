@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Giang 👋
-### Aspiring SOC Analyst & Security Engineer | CS Student at HCMUT
+### Aspiring SOC Analyst & Security Engineer | Senior CS Student at HCMUT
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/4lexngo)
 [![Email](https://img.shields.io/badge/Email-alexngo4work@gmail.com-red?style=flat&logo=gmail)](mailto:alexngo4work@gmail.com)
@@ -11,12 +11,12 @@
 ---
 
 ### 📄 Professional Resume
-> **[Click here to view my Resume (PDF)](https://drive.google.com/file/d/1s_RM71Ne0oAaTJF4QIhXRhUMa1Va314J/view?usp=sharing)** > *(Note: This link leads to my detailed CV for SOC Tier 1 position).*
+> **[Click here to view my Resume (PDF)](https://drive.google.com/file/d/1tPowuKs7hEGROIInil7gbSz2-GArdSJP/view?usp=sharing)** 
 
 ---
 
 ### 🛡️ Executive Summary
-I am a Junior Computer Science student at Ho Chi Minh City University of Technology (HCMUT), specializing in **Cybersecurity and Security Operations (Blue Team)**. My approach bridges the gap between technical execution and business risk. Whether I am analyzing web vulnerabilities, designing network architectures, or building ML-based threat detection pipelines, my goal is to ensure continuous monitoring, rapid incident response, and actionable remediation.
+I am a Senior Computer Science student at Ho Chi Minh City University of Technology (HCMUT), specializing in **Cybersecurity and Security Operations (Blue Team)**. My approach bridges the gap between technical execution and business risk. Whether I am analyzing web vulnerabilities, designing network architectures, or building ML-based threat detection pipelines, my goal is to ensure continuous monitoring, rapid incident response, and actionable remediation.
 
 **Core Competencies:**
 - **Threat Detection & Investigation:** Identifying attack patterns, analyzing raw logs, and performing root-cause analysis.
@@ -67,7 +67,8 @@ A security-first research prototype preventing IoT data forgery, tampering, and 
 ---
 
 ### 🏆 Certifications & Achievements
-* **Google Cybersecurity Professional Certificate:** Completed 8-course program covering SIEM tools, incident response lifecycle, network traffic analysis, and security frameworks (NIST, OWASP)
+* **Google Cybersecurity Professional Certificate:** Completed 8-course program covering SIEM tools, incident response lifecycle, network traffic analysis, and security frameworks (NIST, OWASP).
+* **Cyber Security 101:** Mastered defensive SecOps workflows including Digital Forensics, Incident Response (DFIR), network packet analysis (Wireshark), and Identity & Access Management (IAM) configuration reviews.
 * **Top 40 BK Innovation (2025):** Formulated and Pitched successfully a conceptual security architecture utilizing Blockchain to IoT ecosystems.
 
 ---
